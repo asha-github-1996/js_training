@@ -8,4 +8,4 @@ console.log(typeof b);
 // parseInt(b) -> will convert the string value to integer
 console.log(parseInt(b) + 4);
 
-alert("ths is an alert");
+// alert("ths is an alert");
