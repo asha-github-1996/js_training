@@ -1,4 +1,4 @@
-// Arithmetic operators
+// Arithmetic operators 
 
 console.log(2 + 3);
 var a=2+3;
