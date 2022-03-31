@@ -23,8 +23,8 @@ console.log(t);
 
 // Comparison operators
 
-var x=2;
-var y=2;
+var x=3;
+var y=3;
 if(x==y){
 	document.write("sum is : " );
 	document.write(x + y);
