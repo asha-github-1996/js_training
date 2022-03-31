@@ -3,8 +3,8 @@
 // If there is no return statement then it will have default return value which is "undefined"
 // Function is a keyword in javascript
 
-
-// Named functions
+    
+// Named functions//
 // declaration of function
 function addNum(a,b){
 	console.log("named function addNum is called")
