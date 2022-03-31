@@ -1,6 +1,6 @@
 // object has two parts - properties and functionality.
 
-// first method
+// first method/
 function createperson(){
 var person = new Object();
 person.name="Asha";
