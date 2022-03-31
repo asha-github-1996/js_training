@@ -1,6 +1,6 @@
 let country = "India";
 let continent = "Asia";
-let population = "1";
+let population = "12k";
 
 console.log(country);
 console.log(continent);
