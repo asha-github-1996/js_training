@@ -14,7 +14,7 @@ console.log(d);
 
 // Assignment operators
 
-var s=8;
+var s=10;
 s+=2; // s=s+2;
 console.log(s);
 var t=8;
