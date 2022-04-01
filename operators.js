@@ -12,14 +12,17 @@ console.log(c);
 let d =5%2; // modulas -> which gives remainder
 console.log(d);
 
-const ageJonas = 2037 - 1991;
-const ageRiya = 2027 - 1991;
+const now = 2037;
+const ageJonas = now - 1991;
+const ageRiya = now - 1999;
 console.log("Jonas age : " + ageJonas ,"Riya age : " + ageRiya);
 
 // Assignment operators
 
 let s=10;
 s+=2; // s=s+2;
+s++;
+s--;
 console.log(s);
 let t=8;
 t-=2; // t=t-2;
@@ -27,6 +30,8 @@ console.log(t);
 
 // Comparison operators
 
+console.log(ageJonas > ageRiya);
+console.log(now-1991 > now -1999);
 let x=3;
 let y=3;
 if(x==y){
