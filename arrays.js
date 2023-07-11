@@ -1,6 +1,4 @@
-#just edited
 "use strict"; 
-
 const friend1 = "Anu";
 const friend2 = "Vidhya";
 const friend3 = "Kiran";
