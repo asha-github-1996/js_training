@@ -1,4 +1,4 @@
-let Marksweight=78;
+let Marksweight=79;
 let Marksheight=1.69;
 let Johnweight = 92;
 let Johnheight = 1.95;
