@@ -1,4 +1,5 @@
 "use strict"; 
+const friend02 = "Asha Poulose";
 const friend01 = "Asha";
 const friend1 = "Anu";
 const friend2 = "Vidhya";
